@@ -1,3 +1,4 @@
+![IMG-20241228-WA0012](https://github.com/user-attachments/assets/8a30a55c-74f6-4453-901b-dece11e4f4de)
 NAME: chennamsettyAnitha COMPANY:CODTECH IT SOLUTIONS ID:CT08EKC DOMAIN:FULL SATCK WEB DEVELOPMENT DURATION: DEC 17 2024 TO JAN 17 2025 MENTOR:SRAVANI GOUNI
 
 PROJECT NAME: SIMPLE BLOG APPLICATION
@@ -8,3 +9,4 @@ This is a full-stack blog application that allows users to view, create, edit, a
 
 FEATURES: View Blog Posts: Display a list of all blog posts. Create New Post: A form to create and submit new blog posts. Edit Existing Post: A form to edit an existing blog post. Delete Post: A button to delete blog posts from the database. Responsive Design: The app is fully responsive and looks great on mobile devices as well as desktops. Backend API: CRUD operations for managing blog posts using RESTful routes. Technologies Used Frontend: HTML CSS (Responsive Layouts, Flexbox/Grid) JavaScript (Vanilla JavaScript for DOM Manipulation and Fetch API) Backend: Node.js Express.js (Routing and Middleware) Database: MongoDB (NoSQL database for storing blog posts) Mongoose (ODM for MongoDB) Tools: Postman (Optional: for testing the API)
 output
+![IMG-20241228-WA0012](https://github.com/user-attachments/assets/8a30a55c-74f6-4453-901b-dece11e4f4de)
